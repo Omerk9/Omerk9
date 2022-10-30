@@ -1,7 +1,7 @@
 ## Omer Keidar
 ___
 Hi 👋, I am Omer Keidar, M.Sc. in Data Science. Welcome to my Github page.
-Here you will find several projects, most of which were conducted mostly as part of the academic courses and duties of my Master's degree.
+Here you will find several projects, most of which were conducted as part of the academic courses and duties of my Master's degree.
 The projects contain documented implementation code (in Python) as well as summary reports.
 
 ### NLP
