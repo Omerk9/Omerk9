@@ -5,13 +5,13 @@ Projects in my Git:
 
 NLP:
 
-1.Language Modeling and Generation
+1.Part-of-Speech tagger
 
-2.Spell Checker
+2.Authorship classification of twitter tweets
 
-3.Authorship classification of twitter tweets
+3.Spell Checker
 
-4.Part-of-Speech tagger
+4.Language Modeling and Generation
 
 ML:
 
