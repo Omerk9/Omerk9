@@ -1,4 +1,4 @@
-### Hi 👋, I am Omer, M.Sc Data Science
+### Hi 👋, I am Omer Keidar, M.Sc Data Science
 __________________________________________________________
 
 Projects in my Git:
